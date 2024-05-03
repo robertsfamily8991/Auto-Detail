@@ -11096,17 +11096,15 @@ body {
   font-size: 1rem;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 320px) {
   .masthead h1, .masthead .h1 {
     font-size: 1rem;
     line-height: 2rem;
-    letter-spacing: .2rem;
   }
   
   .masthead h2, .masthead .h2 {
     max-width: 30rem;
     font-size: .75rem;
-    letter-spacing: .2rem;
   }
 }
 
