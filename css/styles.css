@@ -11083,7 +11083,7 @@ body {
 }
 .masthead h1, .masthead .h1 {
   font-family: "Russo One", sans-serif;
-  font-size: 2.5rem;
+  font-size: 1rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
@@ -11093,7 +11093,7 @@ body {
 }
 .masthead h2, .masthead .h2 {
   max-width: 20rem;
-  font-size: 1rem;
+  font-size: .85rem;
 }
 
 @media (min-width: 768px) {
